@@ -1,3 +1,4 @@
+### :woman_technologist: About Me :
 - 🔭 I’m currently working on Leetcode problems
 - 🌱 I’m currently learning algorithms and data structure
 - 👯 I’m looking to collaborate on projects that make a positive impact on people's lives
@@ -6,6 +7,7 @@
 - 📫 How to reach me: tatiana.lavr@gmail.com
 - 😄 Pronouns: she/her
 
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;

@@ -1,5 +1,5 @@
 ### :woman_technologist: About Me :
-- 🔭 I’m currently working on Food Track app
+- 🔭 I’m currently working on Learn Spanish app
 - 🌱 I’m currently learning 100_Days_Of_Frontend_Interview_Questions
 - 👯 I’m looking to collaborate on projects that make a positive impact on people's lives
 - 🤔 I’m looking for help with job hunt
